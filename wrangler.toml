@@ -10,9 +10,9 @@
 # falls back to a localStorage leaderboard automatically.
 
 name = 'zombie-fight'
-compatibility_date = "2024-11-01"
-pages_build_output_dir = "dist"
+compatibility_date = '2024-11-01'
+pages_build_output_dir = 'dist'
 
 # [[kv_namespaces]]
-# binding = "LEADERBOARD"
-# id = "0b4527d56b3447fba40b959dcdd1c023"
+# binding = 'LEADERBOARD'
+# id = '0b4527d56b3447fba40b959dcdd1c023'

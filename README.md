@@ -4,7 +4,7 @@ A first-person, wave-based zombie survival shooter that runs entirely in the
 browser. Built with **Three.js + Vite + vanilla JavaScript**. Every texture is
 generated on a canvas, every sound is synthesized with the Web Audio API -
 there are **zero external assets**. Static output deploys straight to
-**Cloudflare Pages**, with an optional Worker/Pages-Function leaderboard API.
+**Cloudflare Pages**, with an optional Worker/Pages-Function leaderboard API & gay.
 
 ## Quick start
 

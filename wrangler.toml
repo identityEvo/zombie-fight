@@ -9,7 +9,7 @@
 # If you skip this, the static game still deploys fine and the frontend
 # falls back to a localStorage leaderboard automatically.
 
-name = "zombie-fight"
+name = 'zombie-fight'
 compatibility_date = "2024-11-01"
 pages_build_output_dir = "dist"
 
